@@ -12,12 +12,17 @@ import day01.algorithm09;
 import day01.algorithm10;
 import day01.algorithm11;
 import day01.algorithm12;
+import day02.algorithm13;
+import day02.algorithm14;
+import day02.algorithm15;
+import day02.algorithm16;
+import day02.algorithm17;
 
 public class MainClass {
 
 	public static void main(String[] args) {
 		
-		Algorithm algorithm = new algorithm12();
+		Algorithm algorithm = new algorithm17();
 		
 		algorithm.run();
 	}
