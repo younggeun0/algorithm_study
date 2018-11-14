@@ -1,0 +1,5 @@
+javaAlgorithmStudy/.settings/
+javaAlgorithmStudy/bin/
+
+*.classpath
+*.project
