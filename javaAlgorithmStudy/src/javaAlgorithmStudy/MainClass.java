@@ -1,12 +1,12 @@
 package javaAlgorithmStudy;
 
-import day03.algorithm19;
+import day04.algorithm20;
 
 public class MainClass {
 
 	public static void main(String[] args) {
 		
-		Algorithm algorithm = new algorithm19();
+		Algorithm algorithm = new algorithm20();
 		
 		algorithm.run();
 	}
