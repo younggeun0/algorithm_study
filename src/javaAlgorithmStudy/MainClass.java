@@ -1,12 +1,14 @@
 package javaAlgorithmStudy;
 
-import day03.algorithm19;
+import sortStudy181205.BubbleSort;
+import sortStudy181205.BubbleSort2;
+import sortStudy181205.BubbleSort3;
 
 public class MainClass {
 
 	public static void main(String[] args) {
 		
-		Algorithm algorithm = new algorithm19();
+		Algorithm algorithm = new BubbleSort3();
 		
 		algorithm.run();
 	}
