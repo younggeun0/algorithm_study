@@ -2,5 +2,5 @@
 
 ## 정보처리기사 실기 Java 풀이
 
-- 190517 : [실기풀이 복습 01](https://younggeun0.github.io/JCK-review-01/)
+- 190517 : [실기 복습 01](https://younggeun0.github.io/JCK-review-01/)
 
