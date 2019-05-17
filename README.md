@@ -1,2 +1,4 @@
-# javaAlgorithmStudy
-Java Algorithm 공부용
+# 👨‍🔧 알고리즘 스터디
+
+## 정보처리기사 실습문제 Java구현 연습들
+
